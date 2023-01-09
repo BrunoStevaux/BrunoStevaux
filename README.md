@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BrunoStevaux
-- 👀 I’m interested in backend development
-- 🌱 I’m currently learning NextJS 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in backend and software development
+- 🌱 I’m currently learning NextJS and react
+- 💞️ I’m looking to collaborate on new exciting projects
+- 📫 How to reach me -> brunotrevelinstevaux@gmail.com
 
 
 
